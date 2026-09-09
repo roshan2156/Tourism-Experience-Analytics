@@ -1,0 +1,30 @@
+# ============================================
+# TOURISM EXPERIENCE ANALYTICS
+# REQUIRED PYTHON PACKAGES
+# ============================================
+
+# Data manipulation
+pandas
+numpy
+
+# Excel file handling
+openpyxl
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+
+# Gradient boosting
+lightgbm
+
+# Model saving/loading
+joblib
+
+# Streamlit application
+streamlit
+
+# Experiment tracking
+mlflow
