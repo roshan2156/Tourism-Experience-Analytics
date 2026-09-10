@@ -570,11 +570,11 @@ Future versions of the project can include:
 
 **🌐 Live Streamlit Application**
 
-[Add your deployed Streamlit URL here after deployment.](https://tourism-experience-analytics-md9xrgqr9uvappukrrappo3w.streamlit.app/)
+[Streamlit live Application](https://tourism-experience-analytics-md9xrgqr9uvappukrrappo3w.streamlit.app/)
 
 **📓 Notebook**
 
-[Add your Google Colab/Jupyter Notebook link here.](https://colab.research.google.com/drive/1UHKjQ6bW2R6bX0OnF8vY_6hdZVyuTzXN?usp=sharing)
+[Google Colab Notebook](https://colab.research.google.com/drive/1UHKjQ6bW2R6bX0OnF8vY_6hdZVyuTzXN?usp=sharing)
 
 ---
 
