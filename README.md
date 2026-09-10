@@ -566,7 +566,7 @@ Future versions of the project can include:
 
 **💻 GitHub Repository**
 
-[https://github.com/roshan2156/Tourism-Experience-Analytics](https://github.com/roshan2156/Tourism-Experience-Analytics.git)
+[Github Repository](https://github.com/roshan2156/Tourism-Experience-Analytics.git)
 
 **🌐 Live Streamlit Application**
 
